@@ -4,3 +4,4 @@ module RaiseRoulette
 end
 
 extend RaiseRoulette  # One bad idea deserves another
+include RaiseRoulette # OK, whatever
